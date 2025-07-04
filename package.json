@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "expressjs-nodesjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toandinhh2000/ExpressJS-NodesJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toandinhh2000/ExpressJS-NodesJS/issues"
+  },
+  "homepage": "https://github.com/Toandinhh2000/ExpressJS-NodesJS#readme",
+  "description": ""
+}
