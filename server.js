@@ -1,15 +1,11 @@
-const express = require('express');
-var app = express();
-var router1 = express.Router();
-var router2 = express.Router();
+const express = require('express')
+const app = express()
+const path = require('path')
 
-
-
-
-app.get('/', (req, res) => {
-  res.json('Home')
+app.get('/',  function(req, res){
+  var DuongDanFile = path.join(__dirname, 'home.html')
+  res.sendFile()
 })
+app.listen(3000, function(){
 
-app.listen(3000, () => {
-  console.log(`Server started on port`);
-}
+})
