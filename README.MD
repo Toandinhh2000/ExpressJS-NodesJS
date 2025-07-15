@@ -1,4 +1,5 @@
 # Khoa hoc Express tu Zero đến Hero
+## Link khoa hoc: https://www.youtube.com/playlist?list=PLodO7Gi1F7R1GMefX_44suLAaXnaNYMyC
 
 ## 1. Express là gì, cách sử dụng Router trong ExpressJS
 
